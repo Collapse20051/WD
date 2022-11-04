@@ -42,8 +42,8 @@ width: 100%;
 .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
 float:left;
 border: 3px solid black;
-margin-left: 50px;
-margin-right: 50px;
+margin-left: 5%;
+margin-right: 3%;
 
 
 }
